@@ -11,9 +11,9 @@ I do a lot of things, and some of them you may even find interesting.🤞
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://iconscout.com/icon/java-60" />
 </p>
-- I’m IT Graduate from University of Technology Sydney</a>. 
-- Graduate in Bachelor of Science in Information Technology with Distinction (2020 - 2021) with GPA 6.44 and WAM 85.62 </a>.
-- Receiving Dean List 2021 Certificate </a>.
+<a>- I’m IT Graduate from University of Technology Sydney</a>. 
+<a>- Graduate in Bachelor of Science in Information Technology with Distinction (2020 - 2021) with GPA 6.44 and WAM 85.62 </a>.
+<a>- Receiving Dean List 2021 Certificate </a>.
 ---
 ### Send me a message!
 - I am open for any Junior/Graduate Job. Here is where you can find me:
