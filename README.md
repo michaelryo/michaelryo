@@ -1,6 +1,5 @@
 ### Hi there and welcome to my GitHub page 👋
-My name is Michael and I am a software developer from Indonesia. 
-I do a lot of things, and some of them you may even find interesting.🤞
+My name is Michael and I am a software developer from Indonesia. I do a lot of things, and some of them you may even find interesting. 🤞
 ---
 ### What do I do?
 <p>
@@ -11,11 +10,17 @@ I do a lot of things, and some of them you may even find interesting.🤞
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://iconscout.com/icon/java-60" />
 </p>
-<a>- I’m IT Graduate from University of Technology Sydney</a>. 
-<a>- Graduate in Bachelor of Science in Information Technology with Distinction (2020 - 2021) with GPA 6.44 and WAM 85.62 </a>.
-<a>- Receiving Dean List 2021 Certificate </a>.
+
+- I’m IT Graduate from University of Technology Sydney</a>. 
+- Graduate in Bachelor of Science in Information Technology with Distinction (2020 - 2021) with GPA 6.44 and WAM 85.62 </a>.
+- Receiving Dean List 2021 Certificate </a>.
+
 ---
+
 ### Send me a message!
+
+- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+
 - I am open for any Junior/Graduate Job. Here is where you can find me:
 <p>
   <a href="https://www.linkedin.com/in/michael-ryo-72085218a/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
