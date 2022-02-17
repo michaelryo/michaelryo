@@ -1,5 +1,7 @@
-### Hi there and welcome to my GitHub page 👋
-My name is Michael and I am a software developer from Indonesia. I do a lot of things, and some of them you may even find interesting. 🤞
+### Hi there and welcome to my GitHub page 👋 
+---
+My name is Michael and I am a software developer from Indonesia. 
+I do a lot of things, and some of them you may even find interesting. 🤞
 ---
 ### What do I do?
 <p>
