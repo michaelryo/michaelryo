@@ -5,7 +5,7 @@
 My name is Michael and I am a software developer from Indonesia. 
 
 I do a lot of development from university and freelance job, and some of them you may even find interesting. 
-(Note: Some repository are just clone from my university GitHub account)🤞
+(Note: Some repository are just a clone from my university GitHub account)🤞
 
 ---
 
