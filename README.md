@@ -23,6 +23,8 @@ My name is Michael and I am a software developer from Indonesia. I do a lot of t
 <p>
   <a href="https://www.linkedin.com/in/michael-ryo-72085218a/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
+
 ---
+
 ### Github stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelryo&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Michael+Ryo's+GitHub+Stats&show_icons=true" />
