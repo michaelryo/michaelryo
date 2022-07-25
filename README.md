@@ -21,6 +21,8 @@ I do a lot of development from university and freelance jobs, and some of them y
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelryo&layout=compact&theme=merko&hide_border=true)
+
 - I’m IT Graduate from University of Technology Sydney</a>. 
 - Graduate in Bachelor of Science in Information Technology with Distinction (2020 - 2021) with GPA 6.44 and WAM 85.62 </a>.
 - Receiving Dean List 2021 Certificate </a>.
