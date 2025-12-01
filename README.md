@@ -21,17 +21,9 @@ Proven ability to deliver complex, high-impact projects end‑to‑end, collabor
 
 Bachelor of Science in Information Technology (Distinction)
 University of Technology Sydney – Dec 2021
-Major: Enterprise Systems Development
-Key Focus: Software Engineering, Web Development, Algorithms & Data Structures, AI
-Diploma of Information Technology
-UTS Insearch – Oct 2019
-Major: Software Engineering
-
 ---
 
 ### Send me a message!
-
-- I am open for any Software Developer Job. Here is where you can find me:
 <p>
   <a href="https://www.linkedin.com/in/michael-ryo-72085218a/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
