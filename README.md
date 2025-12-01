@@ -2,11 +2,9 @@
 
 ---
 
-My name is Michael and I am a software developer from Indonesia. 
+Results-driven Software Engineer with years of experience in Banking & Financial Services, specializing in real-time payments, card systems, data engineering, and third‑party integrations. Strong background in developing scalable and secure applications across mobile, web, and backend platforms using Java, C#, JavaScript/TypeScript, Python, and modern frameworks.
 
-I do a lot of development from university and freelance jobs, and some of them you may even find interesting. 
-
-(Note: Some repositories are just a clone from my University's GitHub account)🤞
+Proven ability to deliver complex, high-impact projects end‑to‑end, collaborate with cross-functional teams, and translate business requirements into robust technical solutions. Skilled in API design, data pipelines, workflow orchestration, SDLC best practices, Agile methodologies, and risk management.
 
 ---
 
@@ -21,9 +19,13 @@ I do a lot of development from university and freelance jobs, and some of them y
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
 
-- I’m IT Graduate from University of Technology Sydney</a>. 
-- Graduate in Bachelor of Science in Information Technology with Distinction (2020 - 2021) with GPA 6.44 and WAM 85.62 </a>.
-- Receiving Dean List 2021 Certificate </a>.
+Bachelor of Science in Information Technology (Distinction)
+University of Technology Sydney – Dec 2021
+Major: Enterprise Systems Development
+Key Focus: Software Engineering, Web Development, Algorithms & Data Structures, AI
+Diploma of Information Technology
+UTS Insearch – Oct 2019
+Major: Software Engineering
 
 ---
 
